@@ -4,10 +4,7 @@ I'm a pre final year Engineering student interested in exploring modern technolo
 
 Catch me on LinkedIn for my profile and let's get connected :)
 
-<!--
-**shashanknenar/shashanknenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine learning and deep learning techniques like NLP. Interested in building websites with ReactJS 
 - 🌱 I’m currently learning NLP and ReactJS
