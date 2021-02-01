@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my Github Profil
+### Welcome to my Github Profile
 
 Catch me on LinkedIn for my profile and let's get connected :)
 
